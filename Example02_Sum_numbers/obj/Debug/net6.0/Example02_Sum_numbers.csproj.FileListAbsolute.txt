@@ -1,0 +1,15 @@
+D:\Galina\DATA_Analyst_GeekBrains\Introdution to C#\Projects\Example02_Sum_numbers\bin\Debug\net6.0\Example02_Sum_numbers.exe
+D:\Galina\DATA_Analyst_GeekBrains\Introdution to C#\Projects\Example02_Sum_numbers\bin\Debug\net6.0\Example02_Sum_numbers.deps.json
+D:\Galina\DATA_Analyst_GeekBrains\Introdution to C#\Projects\Example02_Sum_numbers\bin\Debug\net6.0\Example02_Sum_numbers.runtimeconfig.json
+D:\Galina\DATA_Analyst_GeekBrains\Introdution to C#\Projects\Example02_Sum_numbers\bin\Debug\net6.0\Example02_Sum_numbers.dll
+D:\Galina\DATA_Analyst_GeekBrains\Introdution to C#\Projects\Example02_Sum_numbers\bin\Debug\net6.0\Example02_Sum_numbers.pdb
+D:\Galina\DATA_Analyst_GeekBrains\Introdution to C#\Projects\Example02_Sum_numbers\obj\Debug\net6.0\Example02_Sum_numbers.csproj.AssemblyReference.cache
+D:\Galina\DATA_Analyst_GeekBrains\Introdution to C#\Projects\Example02_Sum_numbers\obj\Debug\net6.0\Example02_Sum_numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Galina\DATA_Analyst_GeekBrains\Introdution to C#\Projects\Example02_Sum_numbers\obj\Debug\net6.0\Example02_Sum_numbers.AssemblyInfoInputs.cache
+D:\Galina\DATA_Analyst_GeekBrains\Introdution to C#\Projects\Example02_Sum_numbers\obj\Debug\net6.0\Example02_Sum_numbers.AssemblyInfo.cs
+D:\Galina\DATA_Analyst_GeekBrains\Introdution to C#\Projects\Example02_Sum_numbers\obj\Debug\net6.0\Example02_Sum_numbers.csproj.CoreCompileInputs.cache
+D:\Galina\DATA_Analyst_GeekBrains\Introdution to C#\Projects\Example02_Sum_numbers\obj\Debug\net6.0\Example02_Sum_numbers.dll
+D:\Galina\DATA_Analyst_GeekBrains\Introdution to C#\Projects\Example02_Sum_numbers\obj\Debug\net6.0\refint\Example02_Sum_numbers.dll
+D:\Galina\DATA_Analyst_GeekBrains\Introdution to C#\Projects\Example02_Sum_numbers\obj\Debug\net6.0\Example02_Sum_numbers.pdb
+D:\Galina\DATA_Analyst_GeekBrains\Introdution to C#\Projects\Example02_Sum_numbers\obj\Debug\net6.0\Example02_Sum_numbers.genruntimeconfig.cache
+D:\Galina\DATA_Analyst_GeekBrains\Introdution to C#\Projects\Example02_Sum_numbers\obj\Debug\net6.0\ref\Example02_Sum_numbers.dll
