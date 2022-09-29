@@ -1,0 +1,15 @@
+D:\Galina\DATA_Analyst_GeekBrains\Introdution to C#\Projects\Example00_HelloWorld\bin\Debug\net6.0\Example00_HelloWorld.exe
+D:\Galina\DATA_Analyst_GeekBrains\Introdution to C#\Projects\Example00_HelloWorld\bin\Debug\net6.0\Example00_HelloWorld.deps.json
+D:\Galina\DATA_Analyst_GeekBrains\Introdution to C#\Projects\Example00_HelloWorld\bin\Debug\net6.0\Example00_HelloWorld.runtimeconfig.json
+D:\Galina\DATA_Analyst_GeekBrains\Introdution to C#\Projects\Example00_HelloWorld\bin\Debug\net6.0\Example00_HelloWorld.dll
+D:\Galina\DATA_Analyst_GeekBrains\Introdution to C#\Projects\Example00_HelloWorld\bin\Debug\net6.0\Example00_HelloWorld.pdb
+D:\Galina\DATA_Analyst_GeekBrains\Introdution to C#\Projects\Example00_HelloWorld\obj\Debug\net6.0\Example00_HelloWorld.csproj.AssemblyReference.cache
+D:\Galina\DATA_Analyst_GeekBrains\Introdution to C#\Projects\Example00_HelloWorld\obj\Debug\net6.0\Example00_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Galina\DATA_Analyst_GeekBrains\Introdution to C#\Projects\Example00_HelloWorld\obj\Debug\net6.0\Example00_HelloWorld.AssemblyInfoInputs.cache
+D:\Galina\DATA_Analyst_GeekBrains\Introdution to C#\Projects\Example00_HelloWorld\obj\Debug\net6.0\Example00_HelloWorld.AssemblyInfo.cs
+D:\Galina\DATA_Analyst_GeekBrains\Introdution to C#\Projects\Example00_HelloWorld\obj\Debug\net6.0\Example00_HelloWorld.csproj.CoreCompileInputs.cache
+D:\Galina\DATA_Analyst_GeekBrains\Introdution to C#\Projects\Example00_HelloWorld\obj\Debug\net6.0\Example00_HelloWorld.dll
+D:\Galina\DATA_Analyst_GeekBrains\Introdution to C#\Projects\Example00_HelloWorld\obj\Debug\net6.0\refint\Example00_HelloWorld.dll
+D:\Galina\DATA_Analyst_GeekBrains\Introdution to C#\Projects\Example00_HelloWorld\obj\Debug\net6.0\Example00_HelloWorld.pdb
+D:\Galina\DATA_Analyst_GeekBrains\Introdution to C#\Projects\Example00_HelloWorld\obj\Debug\net6.0\Example00_HelloWorld.genruntimeconfig.cache
+D:\Galina\DATA_Analyst_GeekBrains\Introdution to C#\Projects\Example00_HelloWorld\obj\Debug\net6.0\ref\Example00_HelloWorld.dll
